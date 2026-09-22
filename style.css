@@ -1,0 +1,21 @@
+body {
+  background: black;
+  color: white;
+  font-family: monospace;
+  text-align: center;
+  padding: 30px;
+}
+
+h2 { color: yellow; }
+
+/* pre keeps the grid looking like a grid */
+#board {
+  font-size: 26px;
+  line-height: 1.4;
+  letter-spacing: 6px;
+  display: inline-block;
+}
+
+#msg { color: yellow; font-size: 18px; }
+
+button { font-size: 16px; padding: 6px 20px; cursor: pointer; }
